@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1579292314 source:c:\users\amach\documents\github\pokemongo_autospin\pokemongo_autospin\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<cstddef>
+	<sstream>
+	<windows.h>
+
