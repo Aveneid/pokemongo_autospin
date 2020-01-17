@@ -2,6 +2,12 @@
 
 PokemonGo Autospinner is a simple program, written in C++, that can be used to spin pokestops in game when you are in range.
 
+#### TODO:
+```
+ Port everything to some useful form instead of calling std::system method. ᕦ(ò_óˇ)ᕤ
+```
+
+
 ## Installation
 \>Install adb drivers to your PC
 \>Clone repository\
@@ -14,10 +20,7 @@ ADB can be found here: https://forum.xda-developers.com/showthread.php?t=2317790
 Connect your Android phone to PC, enable and allow USB debugging.\
 Run main project exe file, enjoy!
 
-#### TODO:
-```
- Port everything to some useful form instead of calling std::system method. ᕦ(ò_óˇ)ᕤ
-```
+
 
 ## License and stuff
 License: GPL \
